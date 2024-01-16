@@ -4,3 +4,5 @@ This is my first git repository
 Author - Subhajit
 <br>
 Age - 27
+Nature - Calm
+Quality - Procrastinator
