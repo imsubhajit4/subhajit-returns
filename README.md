@@ -6,3 +6,4 @@ Author - Subhajit
 Age - 27
 Nature - Calm
 Quality - Procrastinator
+Mantra - I am Best in the world
